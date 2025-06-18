@@ -1,0 +1,18 @@
+# Ignore Microsoft Office temporary files
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.xls
+~$*.pptx
+~$*.ppt
+
+# Ignore hidden temp files sometimes created on save
+*.tmp
+*.bak
+*.lock
+
+# Ignore macOS hidden files (if you're using macOS)
+.DS_Store
+
+# Ignore Windows thumbnail files
+Thumbs.db
